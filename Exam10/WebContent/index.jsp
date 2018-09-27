@@ -30,7 +30,7 @@
 	<div class="container">
 		<h1>애플리케이션 배포</h1>
 		<div>index.jsp</div>
-		<div><%=n1 %> + <%=n2 %> = <%=calc.sum(n1, n2) %></div>		
+		<div><%=n1 %> + <%=n2 %> = <%=Calc.sum(n1, n2) %></div>		
 	</div>
 </body>
 </html>
